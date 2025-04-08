@@ -2,7 +2,7 @@
 
 Hi there! I'm Nathanael (Nathan) 👋  
 I'm a student and a robotics researcher passionate about industrial robotics, AI, and software development.  
-Currently, I'm studying **Biomechatronics Engineering** at **National Taiwan University**, where I am doing joint research with Delta Electronics working on surveillance robots.
+Currently, I'm studying **Biomechatronics Engineering** at **National Taiwan University**, where I am doing joint research with Delta Electronics on surveillance robots.
 
 🔧 **What I do:**
 - Robotics control systems
@@ -28,7 +28,7 @@ Currently, I'm studying **Biomechatronics Engineering** at **National Taiwan Uni
 
 ![Nathanael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathanael349&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanael349&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanael349&layout=compact&langs_count=10)
 
 ---
 
