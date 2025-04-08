@@ -30,12 +30,6 @@ Currently, I'm studying **Biomechatronics Engineering** at **National Taiwan Uni
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nathanael349&theme=github)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nathanael349&theme=github&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nathanael349&theme=github)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nathanael349&theme=github)
-
 ---
 
 ## 🌐 Connect with me
