@@ -26,9 +26,15 @@ Currently, I'm studying **Biomechatronics Engineering** at **National Taiwan Uni
 
 ## 📊 GitHub Stats
 
-![Nathanael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathanael349&show_icons=true&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathanael349&theme=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanael349&layout=compact&langs_count=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nathanael349&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nathanael349&theme=github&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nathanael349&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nathanael349&theme=github)
 
 ---
 
